@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/python36
 
 msg = 'Olá, Mundo!'
 
